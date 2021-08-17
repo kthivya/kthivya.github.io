@@ -1,5 +1,6 @@
-I'm a Visiting Assistant Professor at School of Information Systems, Singapore Management University. The specific themes of my research interest are:
+I'm an Assistant Professor of Computer Science at School of Computing and Information Systems, Singapore Management University. The specific themes of my research interest are:
 <ul>
+  <li>Computational Cognitive Health Using Wearables</li>
   <li>Urban Transportation Modelling & Planning</li>
   <li>Human Behavior Analytics for Smart-Urban Systems</li>
   <li>Visual Image Privacy</li>
