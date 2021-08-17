@@ -1,4 +1,4 @@
-<h> Hi, I'm Thivya Kandappu.</h>
+<h1> Hi, I'm Thivya Kandappu.</h1>
 
 I'm an Assistant Professor of Computer Science at School of Computing and Information Systems, Singapore Management University. The specific themes of my research interest are:
 <ul>
